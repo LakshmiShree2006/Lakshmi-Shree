@@ -74,10 +74,8 @@
     <section id="about">
         <h2>About Me</h2>
         <p>
-            I'm a <strong>cyber security</strong> expert and technology enthusiast passionate about helping 
-            organizations protect their data and create secure online environments. 
-            With over 7 years of experience, I stay up to date with the latest trends in cybersecurity 
-            and help others learn about staying safe online.
+            I'm a <strong>Data analyst</strong> expert and technology enthusiast passionate about helping 
+            organizations protect their data and create secure online environments. I stay up to date with the latest trends in data analyst and help others learn about staying safe online.
         </p>
     </section>
 
